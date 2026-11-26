@@ -1,0 +1,6 @@
+Daily brief for 2026-11-23 (DE-LU)
+
+TTF closed at EUR 88.5/MWh (+9.4% week-on-week), while power printed EUR 242.7/MWh and carbon was EUR 78.4/t.
+Implied gas-fired marginal power cost is EUR 207.9/MWh, putting observed power above implied cost by EUR 34.8/MWh.
+Clean spark spread is EUR 34.8/MWh, which points to positive generation margin. The 20-day TTF-power correlation is -0.25 and the rolling gas-to-power beta is -2.44.
+Risk view: front-end power remains most exposed to gas repricing, while the back end should stay better anchored by the carbon component unless carbon or structural generation costs materially re-rate.

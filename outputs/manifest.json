@@ -1,0 +1,11 @@
+{
+  "generated_at_utc": "2026-11-23T10:52:56.575434+00:00",
+  "clean_dataset": "outputs/clean/market_data_clean.csv",
+  "brief": "outputs/briefs/daily_brief.txt",
+  "metrics_snapshot": "outputs/clean/metrics_snapshot.json",
+  "charts": {
+    "ttf_vs_power": "outputs/charts/ttf_vs_power.png",
+    "css": "outputs/charts/clean_spark_spread.png"
+  },
+  "openai_log": "outputs/logs/template_brief_log.json"
+}

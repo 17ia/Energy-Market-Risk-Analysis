@@ -1,0 +1,33 @@
+{
+  "as_of_date": "2026-11-23",
+  "power_zone": "DE-LU",
+  "ttf_ticker": "TTF=F",
+  "carbon_ticker": "CO2.L",
+  "latest": {
+    "ttf_price_eur_mwh": 88.45099639892578,
+    "power_price_eur_mwh": 242.73054347826087,
+    "carbon_price_eur_t": 78.41000366210938,
+    "implied_power_price_eur_mwh": 207.91369415283202,
+    "clean_spark_spread_eur_mwh": 34.81684932542885,
+    "carbon_cost_component_eur_mwh": 29.011701354980467
+  },
+  "changes": {
+    "ttf_day_change_pct": 0.0,
+    "power_day_change_pct": 19.095327208303424,
+    "carbon_day_change_pct": 0.4140703407609303,
+    "ttf_week_change_pct": 9.40406301497918,
+    "power_week_change_pct": 63.247988652942325,
+    "carbon_week_change_pct": 2.8327916880122928
+  },
+  "signals": {
+    "ttf_power_20d_corr": -0.25369086972764937,
+    "gas_to_power_beta_20d": -2.437098738887146,
+    "power_vs_implied_gap_eur_mwh": 34.81684932542885
+  },
+  "assumptions": {
+    "gas_efficiency": 0.5,
+    "emissions_factor_tco2_per_mwh": 0.37,
+    "variable_om_eur_mwh": 2.0,
+    "carbon_proxy_note": "Uses Yahoo Finance ticker CO2.L as a public carbon-linked proxy."
+  }
+}
