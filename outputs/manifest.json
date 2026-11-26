@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-23T10:52:56.575434+00:00",
+  "generated_at_utc": "2026-11-26T23:34:15.092818+00:00",
   "clean_dataset": "outputs/clean/market_data_clean.csv",
   "brief": "outputs/briefs/daily_brief.txt",
   "metrics_snapshot": "outputs/clean/metrics_snapshot.json",
