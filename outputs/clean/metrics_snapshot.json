@@ -1,28 +1,28 @@
 {
-  "as_of_date": "2026-11-23",
+  "as_of_date": "2026-11-26",
   "power_zone": "DE-LU",
   "ttf_ticker": "TTF=F",
   "carbon_ticker": "CO2.L",
   "latest": {
-    "ttf_price_eur_mwh": 88.45099639892578,
-    "power_price_eur_mwh": 242.73054347826087,
-    "carbon_price_eur_t": 78.41000366210938,
-    "implied_power_price_eur_mwh": 207.91369415283202,
-    "clean_spark_spread_eur_mwh": 34.81684932542885,
-    "carbon_cost_component_eur_mwh": 29.011701354980467
+    "ttf_price_eur_mwh": 87.55000305175781,
+    "power_price_eur_mwh": 293.1480208333333,
+    "carbon_price_eur_t": 80.51000213623047,
+    "implied_power_price_eur_mwh": 206.8887068939209,
+    "clean_spark_spread_eur_mwh": 86.25931393941241,
+    "carbon_cost_component_eur_mwh": 29.788700790405272
   },
   "changes": {
-    "ttf_day_change_pct": 0.0,
-    "power_day_change_pct": 19.095327208303424,
-    "carbon_day_change_pct": 0.4140703407609303,
-    "ttf_week_change_pct": 9.40406301497918,
-    "power_week_change_pct": 63.247988652942325,
-    "carbon_week_change_pct": 2.8327916880122928
+    "ttf_day_change_pct": 0.2829245775946898,
+    "power_day_change_pct": 19.298415922841095,
+    "carbon_day_change_pct": 2.881611350020208,
+    "ttf_week_change_pct": -1.4956547117888963,
+    "power_week_change_pct": 55.79332377831696,
+    "carbon_week_change_pct": 2.892562305799662
   },
   "signals": {
-    "ttf_power_20d_corr": -0.25369086972764937,
-    "gas_to_power_beta_20d": -2.437098738887146,
-    "power_vs_implied_gap_eur_mwh": 34.81684932542885
+    "ttf_power_20d_corr": -0.22180239226962412,
+    "gas_to_power_beta_20d": -1.8133933856618716,
+    "power_vs_implied_gap_eur_mwh": 86.25931393941241
   },
   "assumptions": {
     "gas_efficiency": 0.5,
