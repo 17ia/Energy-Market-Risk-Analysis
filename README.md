@@ -58,11 +58,11 @@ energy-market-risk-analysis/
 
 ### TTF Gas vs Electricity Prices
 
-![TTF vs Power](outputs/charts/ttf_vs_power.png)
+![TTF vs Power](https://raw.githubusercontent.com/17ia/Energy-Market-Risk-Analysis/main/outputs/charts/ttf_vs_power.png)
 
 ### Clean Spark Spread
 
-![Clean Spark Spread](outputs/charts/clean_spark_spread.png)
+![Clean Spark Spread](https://raw.githubusercontent.com/17ia/Energy-Market-Risk-Analysis/main/outputs/charts/clean_spark_spread.png)
 
 ### Market Data
 
