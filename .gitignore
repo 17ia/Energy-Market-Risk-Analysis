@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# API keys and secrets
+.env
+*.pem
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
