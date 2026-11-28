@@ -263,6 +263,6 @@ Market data availability and source methodologies may affect the results.
 
 This project is intended for educational, analytical and research purposes only. The analysis is based on historical market data and simplified modelling assumptions. It does not constitute investment advice or a recommendation to trade any financial instrument.
 
-##Author
+## 12. Author
 
 - **LinkedIn:** [Isaiah Akpovwa](https://www.linkedin.com/in/isaiahakpovwa/)
